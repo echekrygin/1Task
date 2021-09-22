@@ -1,0 +1,10 @@
+C:\Users\echek\Desktop\ПРВ\1Task\Task1\Task1\bin\Debug\Task1.exe.config
+C:\Users\echek\Desktop\ПРВ\1Task\Task1\Task1\bin\Debug\Task1.exe
+C:\Users\echek\Desktop\ПРВ\1Task\Task1\Task1\bin\Debug\Task1.pdb
+C:\Users\echek\Desktop\ПРВ\1Task\Task1\Task1\obj\Debug\Task1.csprojAssemblyReference.cache
+C:\Users\echek\Desktop\ПРВ\1Task\Task1\Task1\obj\Debug\Task1.Form1.resources
+C:\Users\echek\Desktop\ПРВ\1Task\Task1\Task1\obj\Debug\Task1.Properties.Resources.resources
+C:\Users\echek\Desktop\ПРВ\1Task\Task1\Task1\obj\Debug\Task1.csproj.GenerateResource.cache
+C:\Users\echek\Desktop\ПРВ\1Task\Task1\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+C:\Users\echek\Desktop\ПРВ\1Task\Task1\Task1\obj\Debug\Task1.exe
+C:\Users\echek\Desktop\ПРВ\1Task\Task1\Task1\obj\Debug\Task1.pdb
